@@ -231,7 +231,7 @@ MIT License - See LICENSE file for details
 ## 👤 Author
 
 **Tushar Dev**  
-Email: devtushar20@gmail.com  
+Email: tushar20jaiswar@gmail.com  
 GitHub: [@devtushar20](https://github.com/devtushar20)
 
 ## 🙏 Acknowledgments
@@ -245,7 +245,7 @@ GitHub: [@devtushar20](https://github.com/devtushar20)
 
 For issues, questions, or suggestions:
 1. Open an issue on GitHub
-2. Email: devtushar20@gmail.com
+2. Email: tushar20jaiswar@gmail.com
 3. Check existing issues and discussions
 
 ---
